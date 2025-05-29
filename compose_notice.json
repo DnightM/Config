@@ -1,6 +1,8 @@
-{
-  "name": "DEPOSIT",
-  "power": true,
-  "notice": "공지 테스트 입니다.\n어떤 내용이든 넣을수있어요\n아마도?",
-  "showNotice" : true
-}
+[
+  {
+    "name": "DEPOSIT",
+    "power": true,
+    "notice": "공지 테스트 입니다.\n어떤 내용이든 넣을수있어요\n아마도?",
+    "showNotice" : true
+  }
+]
