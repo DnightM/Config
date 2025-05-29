@@ -1,8 +1,8 @@
 [
   {
     "name": "DEPOSIT",
-    "power": true,
-    "notice": "공지 테스트 입니다.\n어떤 내용이든 넣을수있어요\n아마도?",
+    "power": false,
+    "notice": "서비스 종료 되었습니다.",
     "showNotice" : true
   }
 ]
