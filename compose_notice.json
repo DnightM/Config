@@ -1,8 +1,8 @@
 [
   {
     "name": "DEPOSIT",
-    "power": false,
-    "notice": "서비스 종료 되었습니다.",
-    "showNotice" : true
+    "power": true,
+    "notice": "",
+    "showNotice" : false
   }
 ]
