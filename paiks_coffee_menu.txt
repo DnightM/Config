@@ -1,0 +1,261 @@
+-- 시즌메뉴
+BEVERAGE | 시즌메뉴 | 요거트 아이스크림 | 4200 | 아이스크림
+BEVERAGE | 시즌메뉴 | 꿀초링 요거트 아이스크림 | 6700 | 요거트아이스크림,아이스크림
+BEVERAGE | 시즌메뉴 | 두바이초코 요거트 아이스크림 | 7700 |
+BEVERAGE | 시즌메뉴 | 망고치즈 요거트 아이스크림 | 6700 |
+BEVERAGE | 시즌메뉴 | 블루베리치즈 요거트 아이스크림 | 6700 |
+BEVERAGE | 시즌메뉴 | 단팥 요거트 아이스크림 | 6200 |
+BEVERAGE | 시즌메뉴 | 단팥밀크쉐이크w노란빨대 | 5000 |
+BEVERAGE | 시즌메뉴 | 단팥딸기쉐이크w노란빨대 | 5000 |
+BEVERAGE | 시즌메뉴 | 수박우롱차 | 5000 |
+BEVERAGE | 시즌메뉴 | 롱롱 피낭시에 클래식 | 4700 |
+BEVERAGE | 시즌메뉴 | 롱롱 피낭시에 커피쿠키맛 | 4700 |
+BEVERAGE | 시즌메뉴 | 완전토마토주스 | 4500 |
+BEVERAGE | 시즌메뉴 | 레드불에이드 | 5300 |
+BEVERAGE | 시즌메뉴 | 레드불꿀샷추 | 5300 |
+BEVERAGE | 시즌메뉴 | 멜론라떼 | 4200 |
+BEVERAGE | 시즌메뉴 | 멜론쉐이크w노란빨대 | 4500 |
+BEVERAGE | 시즌메뉴 | 바나나멜론쉐이크w노란빨대 | 4800 |
+BEVERAGE | 시즌메뉴 | 청사과 스무디w노란빨대 | 4000 |
+BEVERAGE | 시즌메뉴 | 청사과 요거트 스무디w노란빨대 | 4800 |
+BEVERAGE | 시즌메뉴 | 요구르트 스무디w노란빨대 | 4000 |
+BEVERAGE | 시즌메뉴 | 요구르트 밀크 화채w노란빨대 | 4800 |
+BEVERAGE | 시즌메뉴 | 우리수박주스 | 4500 |
+
+-- 에이드
+BEVERAGE | 에이드 | 체리콕콕 | 4000 |
+BEVERAGE | 에이드 | 쿨라임에이드 | 4300 |
+BEVERAGE | 에이드 | 제주한라봉에이드 | 4400 |
+BEVERAGE | 에이드 | 깔라만시에이드 | 4300 |
+BEVERAGE | 에이드 | 미초(석류)에이드 | 3500 |
+BEVERAGE | 에이드 | 레모네이드 | 4500 |
+BEVERAGE | 에이드 | 자몽에이드 | 4500 |
+BEVERAGE | 에이드 | 청포도에이드 | 4500 |
+BEVERAGE | 에이드 | 유자에이드 | 4500 |
+BEVERAGE | 에이드 | 복숭아에이드 | 4500 |
+BEVERAGE | 에이드 | 딸기에이드w노란빨대 | 4300 |
+
+-- 주스
+BEVERAGE | 주스 | 완전파인애플주스w노란빨대 | 4300 |
+BEVERAGE | 주스 | 체리주스 | 4400 |
+BEVERAGE | 주스 | 완전블루베리주스 | 5300 |
+BEVERAGE | 주스 | 완전망고주스w노란빨대 | 4300 |
+BEVERAGE | 주스 | 완전딸기주스 | 4800 |
+
+-- 빽스치노
+BEVERAGE | 빽스치노 | 딸기바나나빽스치노(베이직)w노란빨대 | 4500 |
+BEVERAGE | 빽스치노 | 초코바나나빽스치노(베이직)w노란빨대 | 4500 |
+BEVERAGE | 빽스치노 | 녹차빽스치노(베이직)w노란빨대 | 4500 |
+BEVERAGE | 빽스치노 | 원조빽스치노(베이직)w노란빨대 | 3800 |
+BEVERAGE | 빽스치노 | 피스타치오빽스치노(베이직)w노란빨대 | 5000 |
+BEVERAGE | 빽스치노 | 민트초코빽스치노(베이직)w노란빨대 | 4300 |
+BEVERAGE | 빽스치노 | 쿠키크런치빽스치노(베이직)w노란빨대 | 4300 |
+BEVERAGE | 빽스치노 | 초코빽스치노(베이직)w노란빨대 | 4300 |
+BEVERAGE | 빽스치노 | 딸기빽스치노(베이직)w노란빨대 | 4500 |
+
+-- 블렌디드
+BEVERAGE | 블렌디드 | 퐁당치노(바닐라)w노란빨대 | 4300 |
+BEVERAGE | 블렌디드 | 퐁당치노(원조커피)w노란빨대 | 4300 |
+BEVERAGE | 블렌디드 | 퐁당치노(미숫가루)w노란빨대 | 4700 |
+BEVERAGE | 블렌디드 | 파인애플스무디w노란빨대 | 4300 |
+BEVERAGE | 블렌디드 | 망고스무디w노란빨대 | 4300 |
+BEVERAGE | 블렌디드 | 제주한라봉요거트스무디w노란빨대 | 4700 |
+BEVERAGE | 블렌디드 | 패션후르츠스무디w노란빨대 | 4300 |
+BEVERAGE | 블렌디드 | 망고패션스무디w노란빨대 | 4500 |
+BEVERAGE | 블렌디드 | 성주참외스무디w노란빨대 | 4800 |
+BEVERAGE | 블렌디드 | 솜사탕 딸기밀크쉐이크w노란빨대 | 4500 |
+BEVERAGE | 블렌디드 | 플레인요거트스무디w노란빨대 | 4000 |
+BEVERAGE | 블렌디드 | 딸기요거트스무디w노란빨대 | 4800 |
+BEVERAGE | 블렌디드 | 블루베리요거트스무디w노란빨대 | 5800 |
+BEVERAGE | 블렌디드 | 우리쌀쉐이크w노란빨대 | 5000 |
+BEVERAGE | 블렌디드 | 밀크쉐이크w노란빨대 | 4000 |
+BEVERAGE | 블렌디드 | 바나나밀크쉐이크w노란빨대 | 4800 |
+BEVERAGE | 블렌디드 | 바나나커피쉐이크w노란빨대 | 5400 |
+
+-- 세트
+SET | 세트 | 1인 인기메뉴 세트 | 8900 |
+SET | 세트 | 1인 단짠 세트 | 10200 |
+SET | 세트 | 잼있는 사라다빵 세트 | 6800 |
+SET | 세트 | 사라다빵 세트 | 6200 |
+SET | 세트 | 소세지빵 세트 | 6200 |
+SET | 세트 | 고메버터소금빵 세트 | 5500 |
+SET | 세트 | 맛카롱 세트 | 5200 |
+
+-- 대용량
+BEVERAGE | 대용량 | 빽사이즈 아메리카노(ICED) | 3800 |
+BEVERAGE | 대용량 | 빽사이즈 원조커피(ICED) | 4000 |
+BEVERAGE | 대용량 | 빽사이즈 원조커피 제로슈거(ICED) | 4000 |
+BEVERAGE | 대용량 | 빽사이즈 달콤아이스티(ICED) | 4300 |
+BEVERAGE | 대용량 | 빽사이즈 아이스티샷추가(ICED) | 5000 |
+BEVERAGE | 대용량 | 빽사이즈 아이스티 망고추가w노란빨대 | 6300 |
+BEVERAGE | 대용량 | 빽사이즈 아이스티 샷.망고추가w노란빨대 | 7000 |
+BEVERAGE | 대용량 | 빽사이즈 카페라떼(ICED) | 5300 |
+BEVERAGE | 대용량 | 빽사이즈 초코라떼(ICED) | 5500 |
+
+-- 커피
+BEVERAGE | 커피 | 아메리카노(HOT) | 2000 |
+BEVERAGE | 커피 | 아메리카노(ICED) | 2300 |
+BEVERAGE | 커피 | 꿀 아메리카노(HOT) | 3000 |
+BEVERAGE | 커피 | 꿀 아메리카노(ICED) | 3300 |
+BEVERAGE | 커피 | 헤이즐넛 아메리카노(HOT) | 2500 |
+BEVERAGE | 커피 | 헤이즐넛 아메리카노(ICED) | 2800 |
+BEVERAGE | 커피 | 카페라떼(HOT) | 3700 |
+BEVERAGE | 커피 | 카페라떼(ICED) | 3700 |
+BEVERAGE | 커피 | 헤이즐넛라떼(HOT) | 4200 |
+BEVERAGE | 커피 | 헤이즐넛라떼(ICED) | 4200 |
+BEVERAGE | 커피 | 바닐라라떼(HOT) | 4200 |
+BEVERAGE | 커피 | 바닐라라떼(ICED) | 4200 |
+BEVERAGE | 커피 | 원조커피(HOT) | 3000 |
+BEVERAGE | 커피 | 원조커피(ICED) | 3000 |
+BEVERAGE | 커피 | 원조커피 제로슈거(HOT) | 3000 |
+BEVERAGE | 커피 | 원조커피 제로슈거(ICED) | 3000 |
+BEVERAGE | 커피 | 카페모카(HOT) | 4200 |
+BEVERAGE | 커피 | 카페모카(ICED) | 4200 |
+BEVERAGE | 커피 | 카라멜마키아또(HOT) | 4200 |
+BEVERAGE | 커피 | 카라멜마키아또(ICED) | 4200 |
+BEVERAGE | 커피 | 달달연유라떼(HOT) | 4200 |
+BEVERAGE | 커피 | 달달연유라떼(ICED) | 4200 |
+BEVERAGE | 커피 | 아이스티샷추가(아샷추) | 3900 |
+BEVERAGE | 커피 | 아이스티 샷.망고추가(아샷망추)w노란빨대 | 4900 |
+BEVERAGE | 커피 | 블랙펄카페라떼w노란빨대 | 5100 |
+BEVERAGE | 커피 | 바나나카페라떼(HOT) | 4600 |
+BEVERAGE | 커피 | 바나나카페라떼(ICED) | 4600 |
+BEVERAGE | 커피 | 콜드브루(HOT) | 4500 |
+BEVERAGE | 커피 | 콜드브루(ICED) | 4500 |
+BEVERAGE | 커피 | 콜드브루라떼(HOT) | 5000 |
+BEVERAGE | 커피 | 콜드브루라떼(ICED) | 5000 |
+BEVERAGE | 커피 | 콜드브루 흑당라떼(HOT) | 6000 |
+BEVERAGE | 커피 | 콜드브루 흑당라떼(ICED) | 6000 |
+BEVERAGE | 커피 | 콜드브루 연유라떼(HOT) | 6000 |
+BEVERAGE | 커피 | 콜드브루 연유라떼(ICED) | 6000 |
+
+-- 디카페인
+BEVERAGE | 디카페인 | 디카페인 아메리카노(HOT) | 2800 |
+BEVERAGE | 디카페인 | 디카페인 아메리카노(ICED) | 3000 |
+BEVERAGE | 디카페인 | 디카페인 빽사이즈 아메리카노(ICED) | 4500 |
+BEVERAGE | 디카페인 | 디카페인 꿀 아메리카노(HOT) | 3800 |
+BEVERAGE | 디카페인 | 디카페인 꿀 아메리카노(ICED) | 4000 |
+BEVERAGE | 디카페인 | 디카페인 헤이즐넛 아메리카노(HOT) | 3300 |
+BEVERAGE | 디카페인 | 디카페인 헤이즐넛 아메리카노(ICED) | 3500 |
+BEVERAGE | 디카페인 | 디카페인 카페라떼(HOT) | 4200 |
+BEVERAGE | 디카페인 | 디카페인 카페라떼(ICED) | 4200 |
+BEVERAGE | 디카페인 | 디카페인 빽사이즈 카페라떼(ICED) | 6000 |
+BEVERAGE | 디카페인 | 디카페인 헤이즐넛라떼(HOT) | 4700 |
+BEVERAGE | 디카페인 | 디카페인 헤이즐넛라떼(ICED) | 4700 |
+BEVERAGE | 디카페인 | 디카페인 아이스티샷추가(ICED) | 4100 |
+BEVERAGE | 디카페인 | 디카페인 빽사이즈 아이스티샷추가(ICED) | 5400 |
+BEVERAGE | 디카페인 | 디카페인 아이스티 샷.망고추가w노란빨대 | 5100 |
+BEVERAGE | 디카페인 | 디카페인 빽사이즈 아이스티 샷.망고추가w노란빨대 | 7400 |
+BEVERAGE | 디카페인 | 디카페인 바닐라라떼(HOT) | 4900 |
+BEVERAGE | 디카페인 | 디카페인 바닐라라떼(ICED) | 4900 |
+BEVERAGE | 디카페인 | 디카페인 카페모카(HOT) | 4700 |
+BEVERAGE | 디카페인 | 디카페인 카페모카(ICED) | 4700 |
+BEVERAGE | 디카페인 | 디카페인 카라멜마키아또(HOT) | 4700 |
+BEVERAGE | 디카페인 | 디카페인 카라멜마키아또(ICED) | 4700 |
+BEVERAGE | 디카페인 | 디카페인 달달연유라떼(HOT) | 4900 |
+BEVERAGE | 디카페인 | 디카페인 달달연유라떼(ICED) | 4900 |
+BEVERAGE | 디카페인 | 디카페인 블랙펄카페라떼w노란빨대 | 5300 |
+BEVERAGE | 디카페인 | 디카페인 바나나카페라떼(HOT) | 4800 |
+BEVERAGE | 디카페인 | 디카페인 바나나카페라떼(ICED) | 4800 |
+BEVERAGE | 디카페인 | 디카페인 바나나커피쉐이크w노란빨대 | 5600 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루(HOT) | 4500 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루(ICED) | 4500 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루라떼(HOT) | 5000 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루라떼(ICED) | 5000 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루 흑당라떼(HOT) | 6000 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루 흑당라떼(ICED) | 6000 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루 연유라떼(HOT) | 6000 |
+BEVERAGE | 디카페인 | 디카페인 콜드브루 연유라떼(ICED) | 6000 |
+
+-- 음료
+BEVERAGE | 음료 | 식혜(ICED) | 3200 |
+BEVERAGE | 음료 | 레몬 구아바 크러시 | 5000 |
+BEVERAGE | 음료 | 자몽 포멜로 크러시 | 5000 |
+BEVERAGE | 음료 | 아이스크러시 멜론 | 3000 |
+BEVERAGE | 음료 | 청포도플라워 | 4000 |
+BEVERAGE | 음료 | 아이스미초(석류) | 3000 |
+BEVERAGE | 음료 | 딸기라떼(ICED)w노란빨대 | 4300 |
+BEVERAGE | 음료 | 바나나라떼(HOT) | 4000 |
+BEVERAGE | 음료 | 바나나라떼(ICED) | 4000 |
+BEVERAGE | 음료 | 초코라떼(HOT) | 4000 |
+BEVERAGE | 음료 | 초코라떼(ICED) | 4000 |
+BEVERAGE | 음료 | 녹차라떼(HOT) | 4300 |
+BEVERAGE | 음료 | 녹차라떼(ICED) | 4300 |
+BEVERAGE | 음료 | 토피넛라떼(HOT) | 4000 |
+BEVERAGE | 음료 | 토피넛라떼(ICED) | 4000 |
+BEVERAGE | 음료 | 민트초코라떼(HOT) | 4000 |
+BEVERAGE | 음료 | 민트초코라떼(ICED) | 4000 |
+BEVERAGE | 음료 | 미숫가루(물) | 3500 |
+BEVERAGE | 음료 | 미숫가루(우유) | 4500 |
+BEVERAGE | 음료 | 미숫가루(두유) | 5000 |
+BEVERAGE | 음료 | 밀크티(HOT) | 4000 |
+BEVERAGE | 음료 | 밀크티(ICED) | 4000 |
+BEVERAGE | 음료 | 블랙펄라떼w노란빨대 | 4500 |
+BEVERAGE | 음료 | 블랙펄밀크티w노란빨대 | 5000 |
+BEVERAGE | 음료 | 수정과(HOT) | 3000 |
+BEVERAGE | 음료 | 수정과(ICED) | 3000 |
+BEVERAGE | 음료 | 대추라떼(HOT) | 4500 |
+BEVERAGE | 음료 | 대추라떼(ICED) | 4500 |
+BEVERAGE | 음료 | 쌍화라떼(HOT) | 4500 |
+BEVERAGE | 음료 | 쌍화라떼(ICED) | 4500 |
+BEVERAGE | 음료 | 우리쌀라떼(HOT) | 4500 |
+BEVERAGE | 음료 | 우리쌀라떼(ICED) | 4500 |
+BEVERAGE | 음료 | 꿀밤라떼(HOT) | 4300 |
+BEVERAGE | 음료 | 꿀밤라떼(ICED) | 4300 |
+
+-- 티
+BEVERAGE | 티 | 제주한라봉티(HOT) | 3900 |
+BEVERAGE | 티 | 제주한라봉티(ICED) | 3900 |
+BEVERAGE | 티 | 달콤아이스티(ICED) | 3300 |
+BEVERAGE | 티 | 아이스티 망고추가(아망추)w노란빨대 | 4300 |
+BEVERAGE | 티 | 아임파인 민트티(HOT) | 3500 |
+BEVERAGE | 티 | 아임파인 민트티(ICED) | 3500 |
+BEVERAGE | 티 | 트로피칼 후르츠티(HOT) | 3500 |
+BEVERAGE | 티 | 트로피칼 후르츠티(ICED) | 3500 |
+BEVERAGE | 티 | 깔라만시티(HOT) | 3500 |
+BEVERAGE | 티 | 깔라만시티(ICED) | 3500 |
+BEVERAGE | 티 | 레몬티(HOT) | 4000 |
+BEVERAGE | 티 | 레몬티(ICED) | 4000 |
+BEVERAGE | 티 | 자몽티(HOT) | 4000 |
+BEVERAGE | 티 | 자몽티(ICED) | 4000 |
+BEVERAGE | 티 | 유자티(HOT) | 4000 |
+BEVERAGE | 티 | 유자티(ICED) | 4000 |
+BEVERAGE | 티 | 피치우롱스위티(HOT) | 3500 |
+BEVERAGE | 티 | 피치우롱스위티(ICED) | 3500 |
+BEVERAGE | 티 | 우롱티(HOT) | 2500 |
+BEVERAGE | 티 | 우롱티(ICED) | 2500 |
+BEVERAGE | 티 | 페퍼민트티(HOT) | 3000 |
+BEVERAGE | 티 | 페퍼민트티(ICED) | 3000 |
+BEVERAGE | 티 | 황금캐모마일티(HOT) | 3000 |
+BEVERAGE | 티 | 황금캐모마일티(ICED) | 3000 |
+BEVERAGE | 티 | 레몬얼그레이티(HOT) | 4000 |
+BEVERAGE | 티 | 레몬얼그레이티(ICED) | 4000 |
+BEVERAGE | 티 | 오렌지자몽블랙티(HOT) | 4000 |
+BEVERAGE | 티 | 오렌지자몽블랙티(ICED) | 4000 |
+BEVERAGE | 티 | 대추차(HOT) | 3500 |
+BEVERAGE | 티 | 대추차(ICED) | 3500 |
+BEVERAGE | 티 | 쌍화차(HOT) | 3500 |
+BEVERAGE | 티 | 쌍화차(ICED) | 3500 |
+
+-- 디저트
+DESSERT | 디저트 | 사라다빵 밀키트(4개입) | 16000 |
+DESSERT | 디저트 | 잼있는 사라다빵 | 4800 |
+DESSERT | 디저트 | 사라다빵 | 4200 |
+DESSERT | 디저트 | 빽그램핫도그 | 5000 |
+DESSERT | 디저트 | 소세지빵 | 4200 |
+DESSERT | 디저트 | 햄치즈샌드위치 | 4000 |
+DESSERT | 디저트 | 달콤 밤 페스츄리 | 4500 |
+DESSERT | 디저트 | 터키시 딜라이트 초코 | 3700 |
+DESSERT | 디저트 | 32겹 후레쉬번 | 4000 |
+DESSERT | 디저트 | 땅콩마요샌드 | 3200 |
+DESSERT | 디저트 | 고메버터소금빵 | 3500 |
+DESSERT | 디저트 | 쫀득 감자빵 | 3700 |
+DESSERT | 디저트 | 쫀득 고구마빵 | 3700 |
+DESSERT | 디저트 | 아이스 초코크림빵 | 3500 |
+DESSERT | 디저트 | 크리미슈 | 3000 |
+DESSERT | 디저트 | 크리미단팥빵 | 3000 |
+DESSERT | 디저트 | 맛카롱(순우유) | 3200 |
+DESSERT | 디저트 | 맛카롱(딸기크런치) | 3200 |
+DESSERT | 디저트 | 맛카롱(초코크런치) | 3200 |
+DESSERT | 디저트 | 청키 초코칩 쿠키 | 2700 |
+DESSERT | 디저트 | 크랜베리 쿠키 | 2700 |
