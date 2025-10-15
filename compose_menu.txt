@@ -293,6 +293,10 @@ OPTION | 옵션 | 설탕시럽 | 0 | 시럽
 OPTION | 옵션 | 얼음많이 | 0 |
 OPTION | 옵션 | 얼음빼고 | 0 |
 OPTION | 옵션 | 얼음적게 | 0 |
+OPTION | 옵션 | 물 없이 | 0 |
+OPTION | 옵션 | 물 적게 | 0 |
+OPTION | 옵션 | 물 많이 | 0 |
+OPTION | 옵션 | 물 미지근 | 0 |
 OPTION | 옵션 | 연하게 | 0 |
 OPTION | 옵션 | 우유 추가 | 500 |
 OPTION | 옵션 | 오트음료 추가 | 500 | 우유
