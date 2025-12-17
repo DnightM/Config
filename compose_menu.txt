@@ -181,6 +181,8 @@ BEVERAGE | 티 | ICE 블랙퍼스트 | 2500 | 아이스,블랙퍼스트
 BEVERAGE | 티 | HOT 블랙퍼스트 | 2500 | 핫,블랙퍼스트
 BEVERAGE | 티 | ICE 얼그레이 | 2500 | 아이스,얼그레이
 BEVERAGE | 티 | HOT 얼그레이 | 2500 | 핫,얼그레이
+BEVERAGE | 티 | ICE 히비스커스 | 2500 | 아이스,히비스커스
+BEVERAGE | 티 | HOT 히비스커스 | 2500 | 핫,히비스커스
 BEVERAGE | 티 | ICE 자몽티 | 3500 | 아이스,자몽티
 BEVERAGE | 티 | HOT 자몽티 | 3500 | 핫,자몽티
 BEVERAGE | 티 | ICE 레몬티 | 3500 | 레몬티,아이스
@@ -189,19 +191,12 @@ BEVERAGE | 티 | ICE 유자티 | 3500 | 아이스,유자티
 BEVERAGE | 티 | HOT 유자티 | 3500 | 핫,유자티
 BEVERAGE | 티 | ICE 자몽허니블랙티 | 3800 | 아이스,자몽허니블랙티
 BEVERAGE | 티 | HOT 자몽허니블랙티 | 3800 | 핫,자몽허니블랙티
-BEVERAGE | 티 | ICE 히비스커스 | 3800 | 아이스,히비스커스
-BEVERAGE | 티 | HOT 히비스커스 | 3800 | 핫,히비스커스
-BEVERAGE | 티 | 대추차 | 2900 | 차
-BEVERAGE | 티 | 쌍화차 | 2900 | 차,상화차
-BEVERAGE | 티 | HOT 매실차 | 2900 | 차
-BEVERAGE | 티 | ICE 매실차 | 2900 | 차
-BEVERAGE | 티 | 청귤생강차 | 3500 | 차,생강차
 
 -- 전통차
 BEVERAGE | 전통차 | ICE 매실차 | 2900 | 아이스,매실차
 BEVERAGE | 전통차 | HOT 매실차 | 2900 | 핫,매실차
-BEVERAGE | 전통차 | 쌍화차 | 2900 |
-BEVERAGE | 전통차 | 대추차 | 2900 |
+BEVERAGE | 전통차 | 쌍화차 | 2900 | 차
+BEVERAGE | 전통차 | 대추차 | 2900 | 차
 BEVERAGE | 전통차 | 청귤 생강차 | 3500 | 생강차
 
 -- 아이스크림
